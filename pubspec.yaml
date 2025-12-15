@@ -1,4 +1,4 @@
-name: wisata_candi_mrizki_algipari
+name: wisata_candi
 description: "Aplikasi mobile untuk menjelajahi dan menemukan informasi lengkap tentang candi bersejarah di Indonesia. Fitur: pencarian, favorit, galeri foto, dan profile user dengan image picker."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
